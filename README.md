@@ -33,7 +33,6 @@ You can check my deployed projects through my personal page: <a target="_blank" 
 :airplane: I've lived for one year in Switzerland and one and half year in Australia working in the laboratory.  
 :surfer: I live in Forianpolis (Brazil), which is an island, but I'm not really into the beach coz I can't swim. By the way, I'm originally from Minas Gerais.  
 :musical_note: On the weekends I enjoy mixing techno music with my Pioneer controller.  
-:haircut: I haven't had a haircut since the beggining of COVID outbreak, so don't be scared if you see me on the camera.  
 :rainbow: Proud! 
 
 <br/>
