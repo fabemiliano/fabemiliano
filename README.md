@@ -52,7 +52,7 @@ Feel free to contact me if you think somehow I can help you.  ~~I'm looking for 
 <br/>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{fabemiliano}/count.svg)
+![](https://komarev.com/ghpvc/?username=fabemiliano)
 
 
 ![Fabiano GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabemiliano&show_icons=true)
