@@ -50,7 +50,11 @@ Feel free to contact me if you think somehow I can help you.  ~~I'm looking for 
 <br/>
 <br/>
 <br/>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
+![Visitor Count](https://profile-counter.glitch.me/{fabemiliano}/count.svg)
+
+
 ![Fabiano GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabemiliano&show_icons=true)
   
 *This profile was inspired by this article: https://dev.to/aryclenio/como-criar-um-perfil-readme-md-no-github-29o4
