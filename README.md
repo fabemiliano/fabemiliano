@@ -1,7 +1,7 @@
 ## Welcome to my Github 👋 I'm Fabiano and I'm very pleased to have you here
 <br/>
 
-I'm a full stack web developer and currently I'm studying at [Trybe](https://www.betrybe.com/) <code><img height="20" src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png"></code>
+I'm a full stack web developer and currently working mostly with Vue JS <code><img height="20" src="https://pbs.twimg.com/profile_images/1159803972007399424/ZjoZA8iH_400x400.png"></code>
 
 On my github, you'll find projects I've submitted to assess my skills during the course I've been taking and some other personal projects.  
 You can check my deployed projects through my personal page: <a target="_blank" href="https://fabemiliano.github.io">fabemiliano.github.io</a>
@@ -31,14 +31,14 @@ You can check my deployed projects through my personal page: <a target="_blank" 
 
 :mortar_board: I hold a bachelor's degree in Chemistry and another one in Chemical Engineering.  
 :airplane: I've lived for one year in Switzerland and one and half year in Australia working in the laboratory.  
-:surfer: I live in Forianpolis (Brazil), which is an island, but I'm not really into the beach coz I can't swim. By the way, I'm originally from Minas Gerais.  
+:surfer: I live in Belo Horizonte, Brazil 
 :musical_note: On the weekends I enjoy mixing techno music with my Pioneer controller.  
 :rainbow: Proud! 
 
 <br/>
 
 ### Contact:
-Feel free to contact me if you think somehow I can help you.  ~~I'm looking for a job~~
+Feel free to contact me if you think somehow I can help you.
 
 <a target="_blank" href="https://www.linkedin.com/in/fabemiliano/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
